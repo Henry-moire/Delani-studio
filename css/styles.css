@@ -96,3 +96,21 @@
     margin-right: auto;
     width: 90%;
 }
+
+#nameForm{
+    opacity: 40%;
+    border-width: 10px;
+    border-color: white;
+}
+
+#emailForm{
+    opacity: 40%;
+    border-width: 10px;
+    border-color: white;
+}
+
+#messageForm{
+    opacity: 40%;
+    border-color: white;
+    height: 150px;
+}
