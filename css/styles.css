@@ -1,0 +1,22 @@
+.welcomeHeader{
+    /*For image*/
+    background-image: url('../IP3-master/assets/backgrounds/h_img.jpg');
+    background-size: cover;
+    height: 600px;
+    /* For text */
+    padding: 150px;
+    text-align: center;
+    color: aliceblue;
+}
+
+#mouseImage{
+    padding: 150px; 
+}
+#servicesImage{
+    max-width: 100%;
+    height: auto;
+}
+#contactImage{
+    max-width: 100%;
+    height: auto;
+}
