@@ -28,6 +28,17 @@
     color: aliceblue;
 }
 
+.contact{
+    /*For image*/
+    background-image: url('../IP3-master/assets/backgrounds/c_image.jpg');
+    background-size: cover;
+    height: 400px;
+    /* For text */
+    padding: 120px;
+    text-align: center;
+    color: aliceblue;
+}
+
 .centerText{
     text-align: center;
 }
@@ -77,4 +88,11 @@
 
 #productShowing{
     display: none;
+}
+
+.designImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
 }
