@@ -1,4 +1,4 @@
-Week 3 Independent Project A webpage for Delani studio
+Week 3 Independent Project A webpage for Delani studio. It is available at https://henry-moire.github.io/Delani-studio/
 
 Setup/Installation Requirements: Requires an internet browser and an internet connection to view the webpage. Known Bugs None
 
